@@ -1,4 +1,4 @@
-# assembly x86 all Manipulation on array
+# Assembly x86 all Manipulation on array
 
 - [assembly x86](https://en.wikipedia.org/wiki/X86_assembly_language)
 
